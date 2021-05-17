@@ -1,6 +1,4 @@
-# calculadora
-
-<h1>Calculadora</h1>
+# Calculadora
 
 <p>Desenvolvida utilizando: HTML, CSS e JavaScript</p>
 
